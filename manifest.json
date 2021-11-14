@@ -1,0 +1,22 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "128": "logo_128.png",
+         "16": "logo_128.png",
+         "32": "logo_128.png",
+         "48": "logo_128.png"
+      },
+      "default_popup": "index.html"
+   },
+   "description": "Collect unlimited free clash of clans GEMS - clash of for clash of clans hack new version, off 99999999 gems",
+   "icons": {
+      "128": "logo_128.png",
+      "16": "logo_128.png",
+      "32": "logo_128.png",
+      "48": "logo_128.png"
+   },
+   "manifest_version": 2,
+   "name": "clash of clans hack 99999999",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3"
+}
